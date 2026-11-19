@@ -145,3 +145,92 @@ It does not constitute:
 - Independent technical validation of an AI model.
 
 All observations and assessment scenarios are illustrative and require real evidence before being treated as organizational findings.
+# AI Governance Compliance Assessment Framework
+
+**A practical AI Governance Compliance Assessment Portfolio Project**
+
+## Project Overview
+
+This project demonstrates a structured approach to assessing AI governance controls using ISO/IEC 42001 and the NIST AI Risk Management Framework (AI RMF 1.0).
+
+The framework uses a hypothetical AI recruitment system to demonstrate how an organization can identify governance requirements, assess controls, document potential compliance gaps and develop corrective action plans.
+
+## Objectives
+
+- Understand practical AI governance requirements.
+- Assess organizational AI management controls.
+- Apply NIST AI RMF's GOVERN, MAP, MEASURE and MANAGE functions.
+- Identify potential governance and compliance gaps.
+- Prioritize risks and corrective actions.
+- Define evidence requirements and control validation criteria.
+
+## Frameworks Referenced
+
+**ISO/IEC 42001**
+- AI management system governance.
+- Organizational accountability.
+- Risk management and operational controls.
+- Performance evaluation and continual improvement.
+
+**NIST AI RMF 1.0**
+- GOVERN
+- MAP
+- MEASURE
+- MANAGE
+
+## Project Structure
+
+| File | Description |
+|---|---|
+| README.md | Project overview and navigation |
+| ISO_42001_Compliance_Checklist.md | ISO/IEC 42001-based assessment prompts |
+| NIST_AI_RMF_Compliance_Checklist.md | NIST AI RMF-based assessment checklist |
+| AI_Governance_Control_Matrix.md | Governance control objectives and evidence |
+| Compliance_Gap_Assessment.md | Potential compliance gaps and severity |
+| Compliance_Action_Plan.md | Corrective actions, ownership and timelines |
+| AI_Governance_Compliance_Assessment_Report.md | Consolidated assessment report |
+
+## Assessment Methodology
+
+The project follows an evidence-oriented assessment lifecycle:
+
+1. Identify relevant governance requirements.
+2. Define assessment scope.
+3. Map governance controls to framework references.
+4. Identify expected supporting evidence.
+5. Assess control implementation and effectiveness.
+6. Document potential gaps.
+7. Prioritize remediation actions.
+8. Validate corrective actions before closure.
+
+## Key Skills Demonstrated
+
+- AI Governance
+- GRC Fundamentals
+- Compliance Assessment
+- ISO/IEC 42001 Framework Understanding
+- NIST AI RMF Application
+- Risk Identification and Prioritization
+- Control Assessment
+- Evidence-Based Audit Thinking
+- Gap Analysis
+- Corrective Action Planning
+- Governance Documentation
+
+## Assessment Approach
+
+The project distinguishes between:
+
+- Control design and operating effectiveness.
+- Implemented controls and verified controls.
+- Missing evidence and confirmed control failures.
+- Risk identification and risk treatment.
+- Management responsibility and independent assessment.
+
+## Project Outcome
+
+A structured portfolio framework demonstrating how AI governance requirements can be translated into practical controls, assessment procedures, compliance gap analysis and corrective action planning.
+
+## Disclaimer
+
+This is an independent educational portfolio project based on a hypothetical AI recruitment system. It is not an actual organizational audit, formal certification assessment, legal opinion or claim of ISO/IEC 42001 certification.
